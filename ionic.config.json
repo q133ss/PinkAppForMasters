@@ -1,0 +1,7 @@
+{
+  "name": "PinkMasters",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
